@@ -9,12 +9,12 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
   align-items: center;
   font-family: "Kanit", sans-serif;
   color: #fff;
   text-align: center;
   font-weight: 600;
+  gap: 50px;
 }
 h1 {
   font-size: 4rem;
