@@ -53,7 +53,7 @@ Yeah, it’s sneaky—but I honestly love how the browser behaves under the hood
 
 ### Useful resources
 
-Chatgpt was the mentor infact i take the but and tell him why it doesn't work to learn a new concept
+Chatgpt was the mentor infact i take the bug and tell him why it doesn't work to learn a new concept
 he doesn't always be accurate but here come our research bugs are the best thing in our field unless
 you didn't sleep well XD
 
